@@ -1,0 +1,18 @@
+.header--logo {
+    width: 150px;
+}
+.header--profile{
+    width: 60px;
+}
+
+.header--wrapper {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px;
+    transition: .7s background-color;
+}
