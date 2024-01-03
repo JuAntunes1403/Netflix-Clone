@@ -46,12 +46,12 @@ export default () => {
       </section>
       <footer>
         <span>
-          Made
+          Made with
           <span role="img" aria-aria-label="coração">
-            {" "}
-            ❤️{" "}
+          {" "}
+          ❤️
           </span>{" "}
-          by B7web Image rights for Netflix
+          by Julia | Image rights for Netflix
         </span>
         <span>Data taken from Themoviedb.org website </span>
       </footer>
