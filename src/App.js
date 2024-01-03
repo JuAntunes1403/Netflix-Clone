@@ -47,7 +47,7 @@ export default () => {
       <footer>
         <span>
           Made with
-          <span role="img" aria-aria-label="coração">
+          <span role="img" aria-label="coração">
           {" "}
           ❤️
           </span>{" "}
